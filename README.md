@@ -2,6 +2,7 @@
 
 ![PyPI](https://img.shields.io/pypi/v/gutefrage?color=g&logo=python&logoColor=white)
 ![PyPI - License](https://img.shields.io/pypi/l/gutefrage)
+![YouTube](https://img.shields.io/badge/DAMcraft-subscribe-red?logo=youtube&logoColor=white)
 ### An unofficial [gutefrage.net](https://gutefrage.net) API made for Python.
 ## Features
 * get question by name/url/id
