@@ -19,9 +19,30 @@ import gutefrage as gf
 
 gfclient = gf.gutefrage("username", "password")
 ```
-To interact with an specific question we need its **id**. To get the id we need the **last part** of its url. e.g.:
+To interact with an specific question we need its **id**. To get the id we need the **last part** of its url like this:
 
 The Url: `https://www.gutefrage.net/frage/wie-berechnet-man-die-quadratwurzel-aus-625`
 
 last part of it: `wie-berechnet-man-die-quadratwurzel-aus-625`
 
+To get the questions id we can use `.convert_to_id(string)`:
+```python 
+title = "wie-berechnet-man-die-quadratwurzel-aus-625"
+
+id = gfclient.convert_to_id(title)
+print(id)
+```
+What now is printed in the console is the question's id! For this question it's `57753709`.
+Now we have the id we can get the question by id:
+```python 
+id = 57753709 #id we got earlier
+question = gf.question(id)
+```
+Now we've got the question, we can get lot of information about it:
+```python 
+information = question.info()
+```
+And we can finally give it a like!
+```python 
+question.like
+```
