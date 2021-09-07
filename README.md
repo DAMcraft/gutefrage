@@ -8,7 +8,7 @@
 * get question by name/url/id
 * get newest questions 
 * like questions 
-* TODO: reply questions 
+* reply to questions 
 * TODO: post questions 
 * TODO: reply replies
 ## Get started
