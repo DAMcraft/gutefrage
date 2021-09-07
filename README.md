@@ -1,4 +1,4 @@
-# Gutefrage API
+# Gutefrage API v0.3
 ### An unofficial [gutefrage.net](https://gutefrage.net) API made for Python.
 ## Features
 * get question by name/url/id
