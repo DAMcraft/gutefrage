@@ -35,7 +35,7 @@ print(id)
 What now is printed in the console is the question's id! For this question it's `57753709`.
 Now we have the id we can get the question by id:
 ```python 
-id = 57753709 #id we got earlier
+id = 57753709 
 question = gf.question(id)
 ```
 Now we've got the question, we can get lot of information about it:
