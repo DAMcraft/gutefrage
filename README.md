@@ -1,5 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/DAMcraft/gutefrage/main/gf-api-logo_small.png)
 
+# GuteFrage API v0.3
 ![PyPI](https://img.shields.io/pypi/v/gutefrage?color=g&logo=python&logoColor=white)
 ![PyPI - License](https://img.shields.io/pypi/l/gutefrage)
 ![YouTube](https://img.shields.io/badge/DAMcraft-subscribe-red?logo=youtube&logoColor=white)
