@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/DAMcraft/gutefrage/main/gf-api-logo_small.png)
 
-![PyPI](https://img.shields.io/pypi/v/gutefrage?color=g&logo=python)
+![PyPI](https://img.shields.io/pypi/v/gutefrage?color=g&logo=python&logoColor=white)
 ![PyPI - License](https://img.shields.io/pypi/l/gutefrage)
 ### An unofficial [gutefrage.net](https://gutefrage.net) API made for Python.
 ## Features
