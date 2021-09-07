@@ -1,3 +1,2 @@
 # gutefrage
-
-Stuff. May add a description later. Just take a look in example.py
+Check out the wiki to find out how to use it.
