@@ -1,4 +1,4 @@
-[Logo](https://raw.githubusercontent.com/DAMcraft/gutefrage/main/gf-api-logo.png)
+![Logo](https://raw.githubusercontent.com/DAMcraft/gutefrage/main/gf-api-logo.png)
 # GuteFrage API v0.3
 ### An unofficial [gutefrage.net](https://gutefrage.net) API made for Python.
 ## Features
