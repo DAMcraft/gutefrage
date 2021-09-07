@@ -47,4 +47,4 @@ And we can finally give it a like!
 question.like
 ```
 ## Documentation
-You can find the full documentation [here]("https://github.com/DAMcraft/gutefrage/wiki#documentation")
+You can find the full documentation [here]("github.com/DAMcraft/gutefrage/wiki#documentation")
