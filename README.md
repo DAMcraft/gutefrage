@@ -8,7 +8,7 @@
 * TODO: post questions 
 * TODO: reply replies
 ## Get started
-An short explenation of the basic features. You can find the full documentation [here]("https://github.com/DAMcraft/gutefrage/wiki#documentation")
+An short explenation of the basic features. You can find the full documentation [here](https://github.com/DAMcraft/gutefrage/wiki#documentation)
 ### Installation
 Gutefrage API can be installed like every other python package: `pip install gutefrage`
 ### Basic usage
@@ -47,4 +47,4 @@ And we can finally give it a like!
 question.like
 ```
 ## Documentation
-You can find the full documentation [here]("/wiki#documentation")
+You can find the full documentation [here](https://github.com/DAMcraft/gutefrage/wiki#documentation)
