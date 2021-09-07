@@ -19,11 +19,11 @@ import gutefrage as gf
 
 gfclient = gf.gutefrage("username", "password")
 ```
-To interact with an specific question we need its **id**. To get the id we need the **last part** of its url like this:
+To interact with an specific question we need its **id**. To get the id we need its **stripped_title**. The stripped_title can be found in the last part of its url called like this:
 
 The Url: `https://www.gutefrage.net/frage/wie-berechnet-man-die-quadratwurzel-aus-625`
 
-last part of it: `wie-berechnet-man-die-quadratwurzel-aus-625`
+stripped_title: `wie-berechnet-man-die-quadratwurzel-aus-625`
 
 To get the questions id we can use `.convert_to_id(string)`:
 ```python 
