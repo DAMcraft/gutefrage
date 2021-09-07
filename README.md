@@ -9,7 +9,7 @@
 * get newest questions 
 * like questions 
 * reply to questions 
-* TODO: post questions 
+* post questions 
 * TODO: reply replies
 ## Get started
 An short explenation of the basic features. You can find the full documentation [here](https://github.com/DAMcraft/gutefrage/wiki#documentation)
