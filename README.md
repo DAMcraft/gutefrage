@@ -3,7 +3,6 @@
 [![PyPI](https://img.shields.io/pypi/v/gutefrage?color=g&logo=python&logoColor=white)](https://pypi.org/project/gutefrage/)
 [![PyPI - License](https://img.shields.io/pypi/l/gutefrage)]()
 [![Replit](https://img.shields.io/badge/replit.com-project-blue)](https://replit.com/@DAMcraft/Gutefrage-bot)
-[![YouTube](https://img.shields.io/badge/DAMcraft-subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/c/DAMcraft)
 ### An unofficial [gutefrage.net](https://gutefrage.net) API made for Python.
 ## Features
 * get question by name/url/id
