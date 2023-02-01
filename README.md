@@ -1,6 +1,7 @@
 # Archived.
 ## This was one of my first big python projects, it is a total mess.
-        
+## Much broke due to API changes, other stuff due to me being dumb (why is question.like a variable?!?)
+
 
 ![Logo](https://raw.githubusercontent.com/DAMcraft/gutefrage/main/gf-api-logo-new.png)
 
